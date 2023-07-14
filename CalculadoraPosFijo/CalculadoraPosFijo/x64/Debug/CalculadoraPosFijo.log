@@ -1,0 +1,4 @@
+﻿  CalculadoraPosFijo.cpp
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto calculadora\CalculadoraPosFijo\CalculadoraPosFijo\CalculadoraPosFijo.cpp(276,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto calculadora\CalculadoraPosFijo\CalculadoraPosFijo\CalculadoraPosFijo.cpp(306,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  CalculadoraPosFijo.vcxproj -> C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\Estructura\Proyecto calculadora\CalculadoraPosFijo\x64\Debug\CalculadoraPosFijo.exe
